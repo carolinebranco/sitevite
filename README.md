@@ -207,7 +207,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2022 [Creative Tim](h)
+- Copyright 2022 
 - Caroline branco [license](carol)
 
 <!-- ## Useful Links -->
